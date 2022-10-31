@@ -1,4 +1,4 @@
-/* Ejercicio Rectangulo */
+ # Ejercicio Rectangulo 
 
 class Rectangulo:
     def __init__(self, altura, base):
