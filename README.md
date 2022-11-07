@@ -15,4 +15,5 @@
   - Kevin Nicolas Lopez Cordoba 
   - Alessandra Marcano
   - Augusto Britos 
+  - Emilse Zalazar
 
